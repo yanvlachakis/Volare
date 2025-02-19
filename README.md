@@ -5,7 +5,7 @@
   <br>
   <strong>Institutional-Grade Trading for Everyone</strong>
   <br>
-  <em>Start with $50, Scale Like a Pro</em>
+  <em>Start small, learn to fly</em>
 </div>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 Vision
 
-Volare (Italian for "to fly") empowers traders to soar from modest beginnings to institutional-grade performance. Starting with just $50, our AI-driven platform implements sophisticated trading strategies while maintaining minimal operational costs.
+Volare (Italian for "to fly") empowers traders to soar from modest beginnings to institutional-grade performance. Our AI-driven platform implements sophisticated trading strategies while maintaining minimal operational costs, allows even the most humble portfolio to grow on a budget.
 
 ## ✨ Key Features
 
