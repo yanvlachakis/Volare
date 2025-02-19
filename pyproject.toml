@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "raydium-trading-bot"
+name = "Volare Trading Bot"
 version = "0.1.0"
 description = "AI-driven Raydium trading bot with advanced strategies"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Ioannis Vlachakis <Ioannis@volare.trading>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
